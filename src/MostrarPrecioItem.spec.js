@@ -5,3 +5,4 @@ describe("Mostrar items",()=>{
         expect(mostrarPrecioItem(2,4)).toEqual("El precio total es: 8");
     })
 })
+
